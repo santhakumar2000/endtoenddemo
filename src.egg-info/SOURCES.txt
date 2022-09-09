@@ -18,3 +18,5 @@ src/models/production_model_selection.py
 src/models/train_model.py
 src/visualization/__init__.py
 src/visualization/visualize.py
+tests/__Init__.py
+tests/test_config.py

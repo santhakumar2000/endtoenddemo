@@ -13,4 +13,4 @@ joblib
 pandas
 scikit-learn
 pytest
-flaskS
+flask
